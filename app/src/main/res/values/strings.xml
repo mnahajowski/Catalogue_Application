@@ -1,0 +1,28 @@
+<resources>
+    <string-array name="names">
+        <item>Star Wars</item>
+        <item>Lord of the rings</item>
+        <item>Shawshang</item>
+        <item>Die hard</item>
+        <item>The rock</item>
+        <item>Fast and furious</item>
+        <item>The Proposal</item>
+        <item>Armageddon</item>
+    </string-array>
+    <string name="app_name">Catalogue</string>
+
+    <string-array name="categories">
+        <item>Fantasy</item>
+        <item>Dramat</item>
+        <item>SciFi</item>
+        <item>Action</item>
+        <item>Romantic</item>
+    </string-array>
+    <string name="star_wars_description">Najwyższy Porządek, który powstał na gruzach pokonanego 30 lat
+        wcześniej złowrogiego Imperium, próbuje podbić resztę galaktyki.
+        Przeciwstawiają mu się jedynie członkowie Ruchu Oporu.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="galeria_zdj">Galeria zdjęć</string>
+
+</resources>
